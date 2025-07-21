@@ -1,4 +1,4 @@
-# Tailwind Css web template
+# Tailwind CSS Web Template
 
 ## 🔗 Pages
 
